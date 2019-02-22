@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Anton|Staatliches');
+body {
+    background-image: url("https://vignette3.wikia.nocookie.net/estis/images/5/50/Wiki-background/revision/latest?cb=20160608010744");
+	background-size: cover;
+    background-repeat: no-repeat;
+	background-color: blue;
+	}
+
+h1 {
+	color: white ;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 3px;
+  line-height: 0.5;
+	}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #202020;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 1px;
+}
+
+li {
+  float: left;
+}
+a {
+	padding:10px;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1aba62;
+}
+nav {
+	font-size:20px;
+}
+header {
+  padding-top: 30px;
+	
+}
+p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Staatliches', cursive;
+}
+
+.title {
+  font-size: 80px;
+}
+.paragraph {
+  font-size: 15px;
+}
