@@ -4,7 +4,7 @@ body {
     background-image: url("https://vignette3.wikia.nocookie.net/estis/images/5/50/Wiki-background/revision/latest?cb=20160608010744");
 	background-size: cover;
     background-repeat: no-repeat;
-	background-color: blue;
+	background-color: black;
 	}
 
 h1 {
@@ -61,4 +61,16 @@ p {
 }
 .paragraph {
   font-size: 15px;
+  color: #bbff33
+  }
+  
+p {
+  margin: 0px 500px 10px 500px;
+}
+ 
+h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+  font-family: 'Staatliches', cursive;
 }
